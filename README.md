@@ -21,7 +21,7 @@ I am currently a Junior at the University of Illinois Chicago studying Computer 
 
 ## Some of my previous projects!
 
-1. [Open Street Maps](https://github.com/loganlucas13/open-street-maps) | Pathfinding and mapping application using Dijkstra's algorithm to find optimal routes on the UIC Campus! <img align="right" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+1. [Open Street Maps](https://github.com/loganlucas13/open-street-maps) | Mapping application using Dijkstra's algorithm to find optimal routes on the UIC Campus! <img align="right" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
 <br/>
 
