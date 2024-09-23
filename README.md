@@ -16,7 +16,7 @@ I am currently a Junior at the University of Illinois Chicago studying Computer 
 
 <br/>
 
-2. [Trackify](https://github.com/loganlucas13/trackify) | Spotify user profile and review tracking application! (Currently in the planning stage) <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
+2. [Trackify](https://github.com/loganlucas13/trackify) | Spotify user profile and review tracking application! (Currently in the planning stage) <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> 
 
 
 <!-- previous projects -->
