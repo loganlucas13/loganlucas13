@@ -3,7 +3,7 @@
 <!-- intro -->
 I am currently a Junior at the University of Illinois Chicago studying Computer Science with my graduation planned for Spring 2026. My main interest is in full-stack development, and I'm currently working on multiple projects to further enhance my expertise.
 
-**[Click here for my resume!](Logan_Lucas_Resume_2024.pdf)**
+**[Click here for my resume!](Logan_Lucas_resume.pdf)**
 
 
 <!-- current projects -->
