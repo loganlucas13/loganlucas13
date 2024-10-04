@@ -1,7 +1,7 @@
 # Hello, I'm Logan! 👋
 
 <!-- intro -->
-I'm a Junior at the University of Illinois Chicago studying Computer Science. I'm interested and experienced in a wide variety of development areas, but my current focus is on Full-Stack web development. Feel free to take a look around and contact me if you have any questions!
+I'm a Junior at the University of Illinois Chicago studying Computer Science. I grew up on a farm in Central Illinois, around 2 hours south of Chicago! I initially decided to look into Software Development because of my long-lasting obsession with computers and problem-solving. I'm interested and experienced in a wide variety of development areas, but my current focus is on Full-Stack web development. Feel free to take a look around and contact me if you have any questions!
 
 **[Click here for my resume!](Logan_Lucas_resume.pdf)**
 
