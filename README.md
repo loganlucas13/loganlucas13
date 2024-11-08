@@ -31,11 +31,15 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 ## What I'm currently working on!
 
-1. [Travel Website](https://github.com/loganlucas13/travel-website) | Website allowing users to compare flights to and from various destinations. <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+1. [Three Card Poker](https://github.com/loganlucas13/three-card-poker) | Retro-themed three card poker game using JavaFX! <img align="right" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <img align="right" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
 <br/>
 
-2. [Trackify](https://github.com/loganlucas13/trackify) | Spotify user profile and review tracking application. <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> 
+2. [Travel Website](https://github.com/loganlucas13/travel-website) | Website allowing users to compare flights to and from various destinations. <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+
+<br/>
+
+3. [Trackify](https://github.com/loganlucas13/trackify) | Spotify user profile and review tracking application. <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> 
 
 <br/>
 
