@@ -33,7 +33,7 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 <br/>
 
-1. [Guitar Tuner](https://github.com/loganlucas13/guitar-tuner) | Web application to tune your guitar! Made to get around pesky paywalls on mobile apps. <img align="right" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <img align="right" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+1. [Guitar Tuner](https://github.com/loganlucas13/guitar-tuner) | Web application to tune your guitar! Made to get around pesky paywalls on mobile apps. <img align="right" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="right" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <br/>
 
