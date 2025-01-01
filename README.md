@@ -31,8 +31,6 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 ## What I'm currently working on!
 
-<br/>
-
 1. [BrokerX](https://github.com/loganlucas13/broker-x) | Virtual stockbroker that uses real-time data from social media websites <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
 <br/>
