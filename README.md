@@ -14,6 +14,7 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
@@ -31,7 +32,7 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 ## What I'm currently working on!
 
-1. [BrokerX](https://github.com/loganlucas13/broker-x) | Virtual stockbroker that uses real-time data from social media websites <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+1. [BrokerX](https://github.com/loganlucas13/broker-x) | Virtual stockbroker that uses real-time data from social media websites <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>  <img align="right" alt="Go" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
 <br/>
 
@@ -42,7 +43,7 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 ## Some of my previous projects!
 
-1. [Guitar Tuner](https://github.com/loganlucas13/guitar-tuner) | Web application to tune your guitar! Made to get around pesky paywalls on mobile apps. <img align="right" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="right" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+1. [WebTuner](https://github.com/loganlucas13/web-tuner) | Web application to tune your guitar! Made to get around pesky paywalls on mobile apps. <img align="right" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="right" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <br/>
 
@@ -50,11 +51,11 @@ I'm a Junior at the University of Illinois Chicago studying Computer Science. I 
 
 <br/>
 
-3. [Open Street Maps](https://github.com/loganlucas13/open-street-maps) | Mapping application using Dijkstra's algorithm to find optimal routes on the UIC Campus. <img align="right" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+3. [CampusNav](https://github.com/loganlucas13/campus-nav) | Mapping application using Dijkstra's algorithm to find optimal routes on the UIC Campus. <img align="right" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
 <br/>
 
-4. [CTA Lobbyist Database Application](https://github.com/loganlucas13/CTA-lobbyist-app) | Allows users to search for lobbyist details within the CTA database. <img align="right" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+4. [CTA Lobbyist Database Explorer](https://github.com/loganlucas13/CTA-lobbyist-explorer) | Allows users to search for lobbyist details within the CTA database. <img align="right" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <br/>
 
