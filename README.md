@@ -1,5 +1,8 @@
 # Hello, I'm Logan! 👋
 
+
+`> root beer connoisseur` 
+
 I'm a current Senior at the [University of Illinois Chicago](https://cs.uic.edu) studying Computer Science. I work primarily in Full-Stack web development, however I am interested in a wide variety of other areas, including systems development. If you have any questions, please feel free to contact me!
 
 ## My links! 🔗
