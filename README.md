@@ -1,66 +1,43 @@
 # Hello, I'm Logan! 👋
 
-<!-- intro -->
-I'm a Junior at the University of Illinois Chicago studying Computer Science. I grew up on a farm in Central Illinois, around 2 hours south of Chicago! I initially decided to look into Software Development because of my long-lasting obsession with computers and problem-solving. I'm interested and experienced in a wide variety of development areas, but my current focus is on Full-Stack web development. Feel free to take a look around and contact me if you have any questions!
+I'm a current Senior at the [University of Illinois Chicago](https://cs.uic.edu) studying Computer Science. I work primarily in Full-Stack web development, however I am interested in a wide variety of other areas, including systems development. If you have any questions, please feel free to contact me!
 
-**[Click here for my resume!](Logan_Lucas_resume.pdf)**
+## My links! 🔗
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none; padding: 10px;">
+  <a href="https://loganlucas.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/loganlucas13/loganlucas13/main/file-user.svg" width="60" height="60" />
+  </a>
+  <br>Portfolio
+</td>
+<td align="center" style="border: none; padding: 10px;">
+  <a href="https://linkedin.com/in/loganlucas13" target="_blank">
+    <img src="https://raw.githubusercontent.com/loganlucas13/loganlucas13/main/linkedin-svgrepo-com.svg" width="60" height="60" />
+  </a>
+  <br>LinkedIn
+</td>
+<td align="center" style="border: none; padding: 10px;">
+  <a href="https://loganlucas.dev/documents/Logan_Lucas_resume.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/loganlucas13/loganlucas13/main/book-text.svg" width="60" height="60" />
+  </a>
+  <br>Resume
+</td>
+</tr>
+</table>
 
-<!-- skills -->
+## My tools! 🧰
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=.NET&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## My tools!
-
-<img align="left" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Go" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="F#" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg"/>
-
-<br/>
-<br/>
-
-<!-- current projects -->
-
-<!-- all icons below have been sourced from "https://devicon.dev/" -->
-
-## What I'm currently working on!
-
-1. [BrokerX](https://github.com/loganlucas13/broker-x) | Virtual stockbroker that uses real-time data from social media websites <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>  <img align="right" alt="Go" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
-<br/>
-
-2. [Travel Website](https://github.com/loganlucas13/travel-website) | Website allowing users to compare flights to and from various destinations. <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
-
-<!-- previous projects -->
-
-## Some of my previous projects!
-
-1. [WebTuner](https://github.com/loganlucas13/web-tuner) | Web application to tune your guitar! Made to get around pesky paywalls on mobile apps. <img align="right" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="right" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<br/>
-
-2. [Three Card Poker](https://github.com/loganlucas13/three-card-poker) | Retro-themed three card poker game using JavaFX! <img align="right" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <img align="right" alt="Java" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-<br/>
-
-3. [CampusNav](https://github.com/loganlucas13/campus-nav) | Mapping application using Dijkstra's algorithm to find optimal routes on the UIC Campus. <img align="right" alt="C++" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-
-<br/>
-
-4. [CTA Lobbyist Database Explorer](https://github.com/loganlucas13/CTA-lobbyist-explorer) | Allows users to search for lobbyist details within the CTA database. <img align="right" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/> <img align="right" alt="Python" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<br/>
-
-5. [SimpleC Compiler](https://github.com/loganlucas13/basic-simpleC-compiler) | Allows for lexing, parsing, and analysis of SimpleC files. <img align="right" alt="F#" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg"/>
-
-<br/>
-
-6. [Personal portfolio website](https://github.com/loganlucas13/portfolio-website) | A way to share my projects with others! <img align="right" alt="Tailwind" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> <img align="right" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="right" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+## Some stats! 📊
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganlucas13&show_icons=true&theme=dark&hide_rank=true)
