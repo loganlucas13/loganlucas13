@@ -5,7 +5,7 @@
 
 I'm a current Senior at the [University of Illinois Chicago](https://cs.uic.edu) studying Computer Science. I work primarily in Full-Stack web development, however I am interested in a wide variety of other areas, including systems development. If you have any questions, please feel free to contact me!
 
-## My links! 🔗
+## 🔗 My links!
 <table style="border: none; border-collapse: collapse;">
 <tr>
 <td align="center" style="border: none; padding: 10px;">
@@ -29,7 +29,7 @@ I'm a current Senior at the [University of Illinois Chicago](https://cs.uic.edu)
 </tr>
 </table>
 
-## My tools! 🧰
+## 🧰 My tools!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,5 +42,5 @@ I'm a current Senior at the [University of Illinois Chicago](https://cs.uic.edu)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## Some stats! 📊
+## 📊 Some stats!
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganlucas13&show_icons=true&theme=dark&hide_rank=true)
